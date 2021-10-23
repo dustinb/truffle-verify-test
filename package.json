@@ -1,0 +1,18 @@
+{
+  "name": "test verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "dotenv": "^10.0.0",
+    "truffle-plugin-verify": "^0.5.15"
+  }
+}
